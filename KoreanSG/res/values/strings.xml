@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="app_name">한인타운</string>
@@ -34,5 +35,7 @@
     <string name="title_activity_shops_by_category_main">ShopsByCategoryMainActivity</string>
     <string name="title_activity_shop_list_main">ShopListMainActivity</string>
     <string name="title_activity_program_list">ProgramListActivity</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="action_settings">Settings</string>
 
 </resources>
