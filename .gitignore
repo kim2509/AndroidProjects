@@ -1,5 +1,5 @@
 facebook/bin
 facebook/gen
 *.class
-KoreanSG/bin
-KoreanSG/gen
+KoreanSG/bin/*
+KoreanSG/gen/*
