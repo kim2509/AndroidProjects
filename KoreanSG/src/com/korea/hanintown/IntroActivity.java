@@ -20,7 +20,7 @@ public class IntroActivity extends DYActivity {
 			new Handler().postDelayed(new Runnable() {
 				@Override
 				public void run() {
-					final Intent mainIntent = new Intent(IntroActivity.this, MainActivity.class);
+					final Intent mainIntent = new Intent(IntroActivity.this, MainActivity2.class);
 					IntroActivity.this.startActivity(mainIntent);
 					IntroActivity.this.finish();
 
